@@ -1,0 +1,55 @@
+body{
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(193, 196, 24);
+}
+
+header{
+    background: rgb(141, 177, 11);
+    text-align: left;
+    margin: 10px;
+    width: auto;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+p{
+    color: rgb(10, 89, 155);
+    text-align: left;
+    line-height: 1.5;
+    padding-bottom: 0cap;
+    text-indent: 3ch;
+    font-variant-position: normal;
+}
+
+a{
+    color: rgb(10, 89, 155);
+
+}
+
+a hover{
+    color: rgb(143, 8, 98);
+
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(11, 39, 116);
+}
+
+h2{
+    color: rgb(10, 89, 155);
+    text-align: left;
+}
+
+h4{
+    color: rgb(10, 89, 155);
+    text-align: left;
+}
+
+footer{
+    text-align: right;
+    background: rgb(141, 177, 11);
+    padding: 15px;
+}
